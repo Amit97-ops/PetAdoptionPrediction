@@ -1,3 +1,5 @@
+Note: Do not forget to unzip sentiment data
+
 Code explanation:
 	If you want to create a new model, use training_model.py
 	If you want to continue training an existing model, use refine_model.py. Be sure to save the model with a different name.
