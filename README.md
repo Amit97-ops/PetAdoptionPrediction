@@ -16,7 +16,7 @@ t-SNE was used to map the multi-dimensional data into 2 dimensions. The output w
 
 ![image](https://github.com/Amit97-ops/PetAdoptionPrediction/blob/master/Final%20pr%20curve.png)
 
-The table and Figure show that the AUC of the LightGBM classifiers is in most cases, larger than the other two models. Class 4 (purple curve) shows the most significant difference in AUC between models. This is because Class 4 has the largest amount of samples among the five adoption time categories.
+The Figure shows that the AUC of the LightGBM classifiers is in most cases, larger than the other two models. Class 4 (purple curve) shows the most significant difference in AUC between models. This is because Class 4 has the largest amount of samples among the five adoption time categories.
 
 ## Setup Instructions
 
