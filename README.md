@@ -3,7 +3,7 @@
 
 ## Data Modelling
 
-![image] (https://github.com/Amit97-ops/PetAdoptionPrediction/blob/master/t-sne_final.png)
+![image](https://github.com/Amit97-ops/PetAdoptionPrediction/blob/master/t-sne_final.png)
 
 t-SNE was used to map the multi-dimensional data into 2 dimensions. The output was supposed to cluster outputs based on the similarity of data points with multiple features. As seen above, the outputs did not cluster as well as we'd hoped. This led us to believe that a high prediction rate would be difficult to achieve.
 
